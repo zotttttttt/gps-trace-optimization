@@ -16,3 +16,5 @@ See the combination of both:
 <img src="https://github.com/zotttttttt/gps-trace-optimization/blob/main/Combined.png?raw=true" width="400">
 
 Go to https://github.com/valhalla/valhalla to set up an Valhalla environment on your machine.
+
+Also, you can read the article to get an understanding on how it works: https://towardsdatascience.com/map-matching-done-right-using-valhallas-meili-f635ebd17053
